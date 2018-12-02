@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8.1输入输出流", "8.1输入输出流\8.1输入输出流.vcxproj", "{D15701AD-A0EB-45A8-8573-6578E1EE683C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D15701AD-A0EB-45A8-8573-6578E1EE683C}.Debug|x64.ActiveCfg = Debug|x64
+		{D15701AD-A0EB-45A8-8573-6578E1EE683C}.Debug|x64.Build.0 = Debug|x64
+		{D15701AD-A0EB-45A8-8573-6578E1EE683C}.Debug|x86.ActiveCfg = Debug|Win32
+		{D15701AD-A0EB-45A8-8573-6578E1EE683C}.Debug|x86.Build.0 = Debug|Win32
+		{D15701AD-A0EB-45A8-8573-6578E1EE683C}.Release|x64.ActiveCfg = Release|x64
+		{D15701AD-A0EB-45A8-8573-6578E1EE683C}.Release|x64.Build.0 = Release|x64
+		{D15701AD-A0EB-45A8-8573-6578E1EE683C}.Release|x86.ActiveCfg = Release|Win32
+		{D15701AD-A0EB-45A8-8573-6578E1EE683C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB40B8C1-C90F-4D5C-86D5-7E2F72AB51FA}
+	EndGlobalSection
+EndGlobal
